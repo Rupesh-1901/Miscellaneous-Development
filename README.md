@@ -1,2 +1,2 @@
-# Miscellaneous-Development
-Add any kind of project you want to contribute to open source
+# student application
+The app is a complete student guide.  
